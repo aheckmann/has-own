@@ -1,4 +1,4 @@
-#has-own
+# has-own
 
 [![Build Status](https://travis-ci.org/pebble/has-own.svg?branch=master)](https://travis-ci.org/pebble/has-own)
 
