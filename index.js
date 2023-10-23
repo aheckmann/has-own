@@ -1,8 +1,8 @@
 
-var hasOwnProperty = Object.prototype.hasOwnProperty;
+var has = require('hasown');
 
 module.exports = exports = function hasOwn(prop, obj) {
-  return hasOwnProperty.call(obj, prop);
+  return has(obj, prop);
 }
 
 exports.version = require('./package.json').version;
