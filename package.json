@@ -15,5 +15,8 @@
   "homepage": "https://github.com/aheckmann/has-own/",
   "devDependencies": {
     "mocha": "^6.2.2"
+  },
+  "dependencies": {
+    "hasown": "^2.0.0"
   }
 }
