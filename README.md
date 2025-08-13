@@ -1,6 +1,10 @@
-# has-own
+# DEPRECATED
 
-[![Build Status](https://travis-ci.org/aheckmann/has-own.svg?branch=master)](https://travis-ci.org/aheckmann/has-own)
+With the wide availability of
+[`Object.hasOwn()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/hasOwn),
+this project is no longer necessary and no longer maintained. Do not use this in your project.
+
+# has-own
 
 Shorthand `Object.prototype.hasOwnProperty.call(obj, name)`.
 
